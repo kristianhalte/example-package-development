@@ -25,3 +25,22 @@ NPM Commands: https://docs.npmjs.com/cli/v8/commands/npm-version
     - `preminor`: `[major].[minor]-[preminor].[patch]`
     - `prepatch`: `[major].[minor].[patch]-[prepatch]`
     - `prerelease`: `[major].[minor].[patch]-[prerelease]`
+
+## Getting Started: Conventional Commits
+Website: https://www.conventionalcommits.org/en/v1.0.0/
+conventional-changelog-action: https://github.com/TriPSs/conventional-changelog-action
+create-release: https://github.com/actions/create-release
+
+Use the `math.js` file as a math library
+
+- [ ] add the `addition()` function and do a regular commit
+- [ ] add the `subtraction()` function and do a `feat` commit
+- [ ] add the `multiplication()` function and do a `feat` commit
+- [ ] install the `standard-version` package and run the command
+- [ ] update the `README.md` and do a `doc` commit
+- [ ] update the `multiplication()` function and do a `fix` commit
+- [ ] add the `division()` function and do a `feat` commit
+- [ ] add the conventional-changelog-action workflow to `.github/workflows/conventional-changelog.yml` file and do a `chore` commit
+- [ ] add the `triplication()` function and do a `feat` commit
+- [ ] update the `division()` function and do a `fix` commit
+- [ ] add the create-release workflow to `.github/workflows/release.yml` file and do a `chore` commit
