@@ -33,7 +33,7 @@ create-release: https://github.com/actions/create-release
 
 Use the `math.js` file as a math library
 
-- [ ] add the `addition()` function and do a regular commit
+- [x] add the `addition()` function and do a regular commit
 - [ ] add the `subtraction()` function and do a `feat` commit
 - [ ] add the `multiplication()` function and do a `feat` commit
 - [ ] install the `standard-version` package and run the command
