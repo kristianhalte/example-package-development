@@ -39,8 +39,9 @@ Use the `math.js` file as a math library
 - [x] add the `addition()` function and do a regular commit
 - [x] add the `subtraction()` function and do a `feat` commit
 - [x] add the `multiplication()` function and do a `feat` commit
-- [ ] install the `standard-version` package and run the command
-- [ ] update the `README.md` and do a `doc` commit
+- [x] install the `standard-version` package
+- [x] update the `README.md` and do a `doc` commit
+- [ ] run the `npm release` command
 - [ ] update the `multiplication()` function and do a `fix` commit
 - [ ] add the `division()` function and do a `feat` commit
 - [ ] add the conventional-changelog-action workflow to `.github/workflows/conventional-changelog.yml` file and do a `chore` commit
