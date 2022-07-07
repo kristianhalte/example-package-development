@@ -2,6 +2,7 @@
 
 ## Getting Started: Semantic Versioning
 Website: https://semver.org/
+
 NPM Commands: https://docs.npmjs.com/cli/v8/commands/npm-version
 
 
@@ -28,7 +29,9 @@ NPM Commands: https://docs.npmjs.com/cli/v8/commands/npm-version
 
 ## Getting Started: Conventional Commits
 Website: https://www.conventionalcommits.org/en/v1.0.0/
+
 conventional-changelog-action: https://github.com/TriPSs/conventional-changelog-action
+
 create-release: https://github.com/actions/create-release
 
 Use the `math.js` file as a math library
