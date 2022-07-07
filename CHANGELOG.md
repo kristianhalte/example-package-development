@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.1](https://github.com/kristianhalte/example-package-development/compare/v1.3.0...v1.3.1) (2022-07-07)
+
+
+### Bug Fixes
+
+* change x and y order to fix [#2](https://github.com/kristianhalte/example-package-development/issues/2) ([6172a48](https://github.com/kristianhalte/example-package-development/commit/6172a48555f02ff30c88de08668dc71276fcaf42))
+* put x before y to resolve [#3](https://github.com/kristianhalte/example-package-development/issues/3) ([f6df5f3](https://github.com/kristianhalte/example-package-development/commit/f6df5f35b0322dd30ef3ecf9d076e86f660937c1))
+
 ## [1.3.0](https://github.com/kristianhalte/example-package-development/compare/v1.2.0...v1.3.0) (2022-07-07)
 
 
