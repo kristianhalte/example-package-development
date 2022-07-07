@@ -11,5 +11,5 @@ export let multiplication = (x, y) => {
 };
 
 export let division = (x, y) => {
-  return y / x
+  return x / y
 };
