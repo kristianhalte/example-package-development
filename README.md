@@ -2,7 +2,7 @@
 
 ## Getting Started: Semantic Versioning
 Website: https://semver.org/
-NPM Commands: https://docs.npmjs.com/cli/v7/commands/npm-version
+NPM Commands: https://docs.npmjs.com/cli/v8/commands/npm-version
 
 
 - [x] initiate the npm package with `npm init -y`
