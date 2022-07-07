@@ -47,7 +47,7 @@ Use the `math.js` file as a math library
 - [x] add the `division()` function and do a `feat` commit
 - [x] run the `npm run release` command
 - [x] run the `git push --follow-tags origin master` command to see tags in github UI
-- [ ] raise issue for the `multiplication()` and `division()` functions in the github UI
+- [x] raise issue for the `multiplication()` and `division()` functions in the github UI
 - [ ] update the `multiplication()` and `division()` functions and do a `fix` commit
 - [ ] add the conventional-changelog-action workflow to `.github/workflows/conventional-changelog.yml` file and do a `chore` commit
 - [ ] add the `triplication()` function and do a `feat` commit
