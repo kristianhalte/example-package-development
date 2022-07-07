@@ -10,7 +10,7 @@ NPM Commands: https://docs.npmjs.com/cli/v7/commands/npm-version
 - [x] bump patch version with `npm version patch`
 - [x] bump pre-minor version with `npm version preminor`
 - [x] bump minor version with `npm version minor`
-- [ ] bump pre-major version with `npm version premajor`
+- [x] bump pre-major version with `npm version premajor`
 - [ ] bump major version with `npm version major`
 - [ ] manually bump version with `npm version x.x.x-x`
 - [ ] bump pre-release version with `npm version prerelease`
