@@ -14,3 +14,14 @@ NPM Commands: https://docs.npmjs.com/cli/v7/commands/npm-version
 - [x] bump major version with `npm version major`
 - [x] manually bump version with `npm version x.x.x-x`
 - [x] bump pre-release version with `npm version prerelease`
+
+#### Learnings
+- `npm version` creates a commit
+- `major`: major change + breaks the API
+- `minor`: minor changes + does not break the API
+- `patch`: bug fixes
+- `[major].[minor].[patch]`
+    - `premajor`: `[major]-[premajor].[minor].[patch]`
+    - `preminor`: `[major].[minor]-[preminor].[patch]`
+    - `prepatch`: `[major].[minor].[patch]-[prepatch]`
+    - `prerelease`: `[major].[minor].[patch]-[prerelease]`
