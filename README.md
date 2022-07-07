@@ -13,4 +13,4 @@ NPM Commands: https://docs.npmjs.com/cli/v7/commands/npm-version
 - [x] bump pre-major version with `npm version premajor`
 - [x] bump major version with `npm version major`
 - [x] manually bump version with `npm version x.x.x-x`
-- [ ] bump pre-release version with `npm version prerelease`
+- [x] bump pre-release version with `npm version prerelease`
