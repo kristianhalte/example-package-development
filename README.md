@@ -56,5 +56,5 @@ Use the `math.js` file as a math library
 - [x] update the `triplication()` function and do a `fix` commit
 - [x] add the conventional-changelog-action workflow to `.github/workflows/conventional-changelog.yml` file and do a `chore` commit
 - [x] add the `quadruplication()` function and do a `feat` commit
-- [ ] update the `quadruplication()` function and do a `fix` commit
+- [x] update the `quadruplication()` function and do a `fix` commit
 - [ ] add the create-release workflow to `.github/workflows/release.yml` file and do a `chore` commit
