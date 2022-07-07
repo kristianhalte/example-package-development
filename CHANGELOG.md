@@ -1,3 +1,12 @@
+## [1.5.1](https://github.com/kristianhalte/example-package-development/compare/v1.5.0...v1.5.1) (2022-07-07)
+
+
+### Bug Fixes
+
+* change 5 to 4 to fix [#5](https://github.com/kristianhalte/example-package-development/issues/5) ([6901381](https://github.com/kristianhalte/example-package-development/commit/6901381727bf39ae6aa91537679266ba2a796ed0))
+
+
+
 # [1.5.0](https://github.com/kristianhalte/example-package-development/compare/v1.4.0...v1.5.0) (2022-07-07)
 
 
@@ -42,17 +51,6 @@
 ### Features
 
 * add division ([65b333c](https://github.com/kristianhalte/example-package-development/commit/65b333cf166c972e578bd9818208b2066e4666fb))
-
-
-
-# [1.2.0](https://github.com/kristianhalte/example-package-development/compare/v1.1.3-3...v1.2.0) (2022-07-07)
-
-
-### Features
-
-* add multiplication ([0bfb1e5](https://github.com/kristianhalte/example-package-development/commit/0bfb1e5b7fadf143eea949eb0af66bea99f9a6d6))
-* add subtraction ([67ab560](https://github.com/kristianhalte/example-package-development/commit/67ab560b71170f0360c49093a0b283f38191179a))
-* install standard-version ([536b3ce](https://github.com/kristianhalte/example-package-development/commit/536b3ce1ccfd605d981655dd7853c37dc561858f))
 
 
 
