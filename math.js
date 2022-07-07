@@ -19,5 +19,5 @@ export let triplication = x => {
 };
 
 export let quadruplication = x => {
-  return x * 5
+  return x * 4
 };
