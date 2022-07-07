@@ -7,7 +7,7 @@ export let subtraction = (x, y) => {
 };
 
 export let multiplication = (x, y) => {
-  return y * x
+  return x * y
 };
 
 export let division = (x, y) => {
