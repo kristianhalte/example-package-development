@@ -14,6 +14,6 @@ export let division = (x, y) => {
   return x / y
 };
 
-export let triplication = (x, y) => {
+export let triplication = x => {
   return x * 3
 };
