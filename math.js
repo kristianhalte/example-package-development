@@ -13,3 +13,7 @@ export let multiplication = (x, y) => {
 export let division = (x, y) => {
   return x / y
 };
+
+export let triplication = (x, y) => {
+  return x * 3
+};
