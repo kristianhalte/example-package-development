@@ -1,0 +1,17 @@
+{
+  "name": "example-package-development",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristianhalte/example-package-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristianhalte/example-package-development/issues"
+  },
+  "homepage": "https://github.com/kristianhalte/example-package-development#readme"
+}
