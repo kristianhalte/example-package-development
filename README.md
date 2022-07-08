@@ -1,4 +1,4 @@
-# Package development
+# Example: Package development
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
@@ -58,3 +58,26 @@ Use the `math.js` file as a math library
 - [x] add the `quadruplication()` function and do a `feat` commit
 - [x] update the `quadruplication()` function and do a `fix` commit
 - [x] add the create-release workflow to `.github/workflows/release.yml` file and do a `chore` commit
+
+#### Learnings
+- using conventional commits as a standard is good practice, even if you won't be making changelogs, automated workflows etc.
+- conventional commits can be done manually (no requirements or dependencies needed) or with a VS Code extension
+- it's good to start out with `fix`, `doc`, `feat` and `chore`
+- you can use husky to force commit conventions
+- once cenventional commits are being used for each commit, you can use packages like `standard-version` to generate `CHANGELOG.md` and bump package version
+- you can also use the `conventional-changelog-action` workflow to automate this, based on code pushes (just don't do both)
+- `fix` should bump `[patch]` version
+- `feat` should bump `[minor]` version
+- you can configure which conventional commit types will be included in the `CHANGELOG.md` https://github.com/conventional-changelog/conventional-changelog-config-spec/blob/master/versions/2.2.0/README.md
+    ```json
+    "types": [
+        {"type": "feat", "section": "Features"},
+        {"type": "fix", "section": "Bug Fixes"},
+        {"type": "chore", "hidden": true},
+        {"type": "docs", "hidden": true},
+        {"type": "style", "hidden": true},
+        {"type": "refactor", "hidden": true},
+        {"type": "perf", "hidden": true},
+        {"type": "test", "hidden": true}
+    ]
+    ```
